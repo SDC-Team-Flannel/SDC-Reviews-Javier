@@ -1,0 +1,19 @@
+{
+  "name": "sdc-reviews-javier",
+  "version": "1.0.0",
+  "description": "Hackreactor system design capstone project: Review service.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SDC-Team-Flannel/SDC-Reviews-Javier.git"
+  },
+  "author": "Javier Tamez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SDC-Team-Flannel/SDC-Reviews-Javier/issues"
+  },
+  "homepage": "https://github.com/SDC-Team-Flannel/SDC-Reviews-Javier#readme"
+}
